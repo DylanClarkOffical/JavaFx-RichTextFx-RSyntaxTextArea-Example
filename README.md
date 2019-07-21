@@ -10,4 +10,5 @@
 
 4. In Intellij project settings import library lib folder of downloaded openjfx sdk(extract the zip file to a folder first).
 5. Download RichTextFx (Fat) and RSyntaxTextArea JAR files from their given websites and add to libraries.
-6. Correct path in code for image files in some examples.
+6. JavaFx Scene Builder (Optional).
+7. Correct path in code for image files in some examples.
