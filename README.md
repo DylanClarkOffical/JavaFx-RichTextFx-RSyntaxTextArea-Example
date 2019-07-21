@@ -1,4 +1,6 @@
-# JavaFx-RichTextFx-RSyntaxTextArea-Example
+# Combined Examples of RichTextFx RSyntaxTextArea for JavaFx
+
+### Instructions on these examples can be found on their respective repositories.
 
 
 ## Requirement:
